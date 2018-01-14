@@ -1,0 +1,18 @@
+{
+  "name": "xkcd-fun",
+  "version": "0.0.1",
+  "description": "get random xkcd",
+  "main": "index.js",
+  "scripts": {
+     "test": "node test/test.js"
+  },
+  "keywords": [],
+  "author": "Ahm Asaduzzaman asad.gooogle@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1"
+  }
+}
