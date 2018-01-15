@@ -1,10 +1,10 @@
 {
   "name": "xkcd-fun",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get random xkcd comics.",
   "main": "index.js",
   "scripts": {
-     "test": "node test/test.js"
+    "test": "node test/test.js"
   },
   "keywords": [],
   "author": "Ahm Asaduzzaman asad.gooogle@gmail.com>",
