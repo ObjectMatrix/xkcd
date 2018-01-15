@@ -1,7 +1,7 @@
 {
   "name": "xkcd-fun",
   "version": "0.0.1",
-  "description": "get random xkcd",
+  "description": "Get random xkcd comics.",
   "main": "index.js",
   "scripts": {
      "test": "node test/test.js"

@@ -1,7 +1,7 @@
 var xkcd = require("../index.js");
 var assert = require("assert");
 
-xkcd.img(function(err, res){
+xkcd.img((err, res) => {
   if(!err) {
     assert.deepEqual(Object.keys(res),['url','title'], "Must have the url and title in the result");
   } else {
